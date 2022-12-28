@@ -5,7 +5,7 @@
 <title>主页</title>
 </head>
 <body>
- <h1>羊君山网页设计上机实验</h1>
+ <h1>徐建辉网页设计上机实验</h1>
   <ul>
 	<li><a href="实验一.html">实验一</a></li>
 	<li><a href="实验二.html">实验二</a></li>
